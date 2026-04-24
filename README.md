@@ -1,5 +1,7 @@
 # BcGoogleLogin（Googleログインプラグイン）
 
+※ baserCMS5系では [BcAuthCommon](https://github.com/kaburk/BcAuthCommon)を使った [BcAuthSocial](https://github.com/kaburk/BcAuthSocial)を利用していただければと思います。
+
 管理画面へのログインをGoogleアカウントで認証してログインすることができるプラグインです。
 
 ※ Google API Client Library for PHP を利用しています。
